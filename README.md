@@ -5,7 +5,7 @@ I’m a systems thinker with a passion for building tools that make decision-mak
 
 🎓 I created a **Senior High School Strand Recommendation System** for my thesis a project designed to help students choose the right SHS strand (like STEM, ABM, or HUMSS) based on personality, interests, and subject confidence. The system uses **weighted scoring logic**, **MBTI alignment**, and subject-based multipliers to generate compatibility scores for each strand. I built the system with **Python**, **Streamlit**, and **Excel-style logic**.
 
-💼 I currently work as a **Data Encoder**, but I've taken initiative to lead a purchasing system centralization project using **Power Query**, **Excel**, and **barcoding tools** — improving traceability of ingredients and simplifying manual processes.
+💼 I currently work as a **Data Encoder**, but I've taken initiative to lead a purchasing system centralization project using **Power Query**, **Excel**, and **barcoding tools** improving traceability of ingredients and simplifying manual processes.
 
 🛠 I’m self-learning:
 - Power BI, SQL, PHP/MySQL
